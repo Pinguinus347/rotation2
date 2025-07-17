@@ -2,10 +2,14 @@
 transcription_data/
 tnseq_data/
 plate_reader/long_data/
-ops_alignment/ncbi_dataset/
+ops_aligment/ncbi_dataset/
 ops_aligment/PROKKA_04292025
+ops_alignment/*
 genome_comparison/ncbi_proteomes/
-genome_comparison/proteome_database/
+genome_comparison/proteome_database
+# Really this should be put somewhere else
+edgeR_results.csv
 
 # Images
 plate_reader/images/
+
