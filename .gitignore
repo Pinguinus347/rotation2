@@ -4,7 +4,7 @@ tnseq_data/
 plate_reader/long_data/
 ops_aligment/ncbi_dataset/
 ops_aligment/PROKKA_04292025
-ops_alignment/*
+ops_aligment/*
 genome_comparison/ncbi_proteomes/
 genome_comparison/proteome_database
 # Really this should be put somewhere else
