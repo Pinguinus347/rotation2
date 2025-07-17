@@ -1,0 +1,11 @@
+# Data files
+transcription_data/
+tnseq_data/
+plate_reader/long_data/
+ops_alignment/ncbi_dataset/
+ops_aligment/PROKKA_04292025
+genome_comparison/ncbi_proteomes/
+genome_comparison/proteome_database/
+
+# Images
+plate_reader/images/
